@@ -1,7 +1,5 @@
 function Home() {
-    return (
-        <h1>Never give up! Give up never!</h1>
-    )
+  return <h1>Never give up! Give up never!</h1>;
 }
 
-export default Home
+export default Home;
